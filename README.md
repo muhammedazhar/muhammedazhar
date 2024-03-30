@@ -1,7 +1,7 @@
 # MUHAMMED AZHAR
-56 Saxon Road, IG1 2PD, London | +44 7091 842587
+56 Saxon Road, IG1 2PD, London **|** +44 7091 842587
 
-iam.muhammedazhar@gmail.com | [www.linkedin.com/in/muhammedazhar](https://www.linkedin.com/in/muhammedazhar/)
+iam.muhammedazhar@gmail.com **|** [www.linkedin.com/in/muhammedazhar](https://www.linkedin.com/in/muhammedazhar/)
 
 ---
 
@@ -9,12 +9,12 @@ iam.muhammedazhar@gmail.com | [www.linkedin.com/in/muhammedazhar](https://www.li
 
 ## EDUCATION
 ### MSC DATA SCIENCE
-*Jan 2024 - Present*
+`Jan 2024 - Present`
 
 University of Greenwich, Maritime Campus - Greater London, United Kingdom
 
 ### BACHELOR OF COMPUTER APPLICATION
-*Sep 2020 - May 2023*
+`Sep 2020 - May 2023`
 
 Cochin Arts & Science College, Kakkanad - Ernakulam, Kerala, India
 
