@@ -1,17 +1,20 @@
 # MUHAMMED AZHAR
 56 Saxon Road, IG1 2PD, London | +44 7091 842587
 
-iam.muhammedazhar@gmail.com | [www.linkedin.com/in/muhammedazhar](www.linkedin.com/in/muhammedazhar)
+iam.muhammedazhar@gmail.com | [www.linkedin.com/in/muhammedazhar](https://www.linkedin.com/in/muhammedazhar/)
 
 ---
 
 **CAREER SUMMARY**: Results-driven Computer Applications graduate and Data Science student with a passion for leveraging Python and neural networks to develop innovative solutions. Skilled in project management, team leadership, and deploying scalable models on cloud platforms. Committed to driving efficiency and enhancing user experiences.
 
 ## EDUCATION
-### MSC DATA SCIENCE	 Jan 2024 - Present
+### MSC DATA SCIENCE
+*Jan 2024 - Present*
+
 University of Greenwich, Maritime Campus - Greater London, United Kingdom
 
-### BACHELOR OF COMPUTER APPLICATION	Sep 2020 - May 2023
+### BACHELOR OF COMPUTER APPLICATION
+*Sep 2020 - May 2023*
 
 Cochin Arts & Science College, Kakkanad - Ernakulam, Kerala, India
 
@@ -60,17 +63,3 @@ Cochin Arts & Science College, Kakkanad - Ernakulam, Kerala, India
 In addition to common skills, proficient in; Python Programming, Web Development (Flask framework, GSAP library), Data Analysis, Machine Learning, Leadership & Collaboration, Problem-Solving, Time management, Multitasking, Adaptability, Technical and Strong Mathematical Reasoning.
 
 **AVAILABILITY**: During the term, I am available for 20-hrs per week on Tuesday, Wednesday, Saturday, and Sunday, in compliance with my student visa regulations. Outside of the term, I can commit to 40-hrs per week.
-<!--
-**muhammedazhar/muhammedazhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
