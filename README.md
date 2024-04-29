@@ -23,9 +23,9 @@ Cochin Arts & Science College, Kakkanad - Ernakulam, Kerala, India
 ## PROJECTS
 
 <u>ProjectChatbot</u> - Python NLTK-Chatbot using with Flask and JavaScript
-```md
+
 > Developed an advanced chatbot with a seamless web interface, leveraging Python libraries and neural networks to enhance communication efficiency. 
-```
+
 <u>PersonalLLM</u> - Large Language Model using PyTorch
 
 > Led a team in developing a large language model, enhancing practical Python skills and empowering individuals in model development.
