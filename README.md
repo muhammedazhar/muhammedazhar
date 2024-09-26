@@ -13,6 +13,8 @@ iam.muhammedazhar@gmail.com **|** [www.linkedin.com/in/muhammedazhar](https://ww
 
 University of Greenwich, Maritime Campus - Greater London, United Kingdom
 
+> Passed `COMP1804` Applied Machine Learning with score of 71.00 out of 100.
+
 ### BACHELOR OF COMPUTER APPLICATION
 `Sep 2020 - May 2023`
 
@@ -62,4 +64,4 @@ Cochin Arts & Science College, Kakkanad - Ernakulam, Kerala, India
 
 In addition to common skills, proficient in; Python Programming, Web Development (Flask framework, GSAP library), Data Analysis, Machine Learning, Leadership & Collaboration, Problem-Solving, Time management, Multitasking, Adaptability, Technical and Strong Mathematical Reasoning.
 
-**AVAILABILITY**: During the term, I am available for 20-hrs per week on Tuesday, Wednesday, Saturday, and Sunday, in compliance with my student visa regulations. Outside of the term, I can commit to 40-hrs per week.
+**AVAILABILITY**: During the term, I am available for 20-hrs per week on Monday, Tuesday, Saturday, and Sunday, in compliance with my student visa regulations. Outside of the term, I can commit to 40-hrs per week.
