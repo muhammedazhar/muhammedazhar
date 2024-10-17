@@ -1,5 +1,5 @@
 # MUHAMMED AZHAR
-56 Saxon Road, IG1 2PD, London **|** +44 7091 842587
+126 Richmond Road, IG1 1JU, London **|** +44 7091 842587
 
 iam.muhammedazhar@gmail.com **|** [www.linkedin.com/in/muhammedazhar](https://www.linkedin.com/in/muhammedazhar/)
 
