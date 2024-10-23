@@ -1,0 +1,5 @@
+# Ignore 'Test' folder.
+Test/
+
+# macOS specific files
+.DS_Store
