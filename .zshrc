@@ -176,3 +176,8 @@ export PATH="/Users/muhammedazhar/.miniconda3/bin:$PATH"
 # <<< conda initialize <<<
 
 export PATH="$HOME/.scripts:$PATH"
+
+# Makefile command alias for CS50x assignments
+alias make="bash /Users/muhammedazhar/.scripts/make.sh"
+export PATH="/Users/muhammedazhar/bin:$PATH"
+export PATH="/usr/bin/make:$PATH"
