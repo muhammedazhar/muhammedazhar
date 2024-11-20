@@ -181,3 +181,7 @@ export PATH="$HOME/.scripts:$PATH"
 alias make="bash /Users/muhammedazhar/.scripts/make.sh"
 export PATH="/Users/muhammedazhar/bin:$PATH"
 export PATH="/usr/bin/make:$PATH"
+
+# OpenMP path for COMP1680-CGV coursework
+export LDFLAGS="-L/opt/homebrew/opt/libomp/lib"
+export CPPFLAGS="-I/opt/homebrew/opt/libomp/include"
