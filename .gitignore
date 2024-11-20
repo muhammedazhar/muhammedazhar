@@ -1,5 +1,9 @@
-# Ignore 'Test' folder.
-Test/
+# Ignore all files.
+*
 
-# macOS specific files
-.DS_Store
+# Not these files.
+!.gitignore
+!.zshrc
+!.Rprofile
+!.scripts/
+!.md
