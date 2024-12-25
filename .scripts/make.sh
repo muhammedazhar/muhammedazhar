@@ -1,18 +1,41 @@
 #!/bin/bash
+# -*- coding: utf-8 -*-
 
-# Set the root directory of your project
-CS50DIR="/Users/muhammedazhar/Developer/CS50x/"
+: <<'END_COMMENT'
+CS50 Makefile Selection Script
+-----------------------------
+This script handles Makefile selection logic for CS50 assignments. It automatically
+determines whether to use the CS50-specific Makefile or the default system
+Makefile based on the current working directory.
 
-echo "Current directory: $(pwd)"
-echo "CS50 Files: $CS50DIR"
+Author: Muhammed Azhar
+Date: December 2024
+END_COMMENT
 
+# ------------------------------------------------------------
+# Environment Variables
+# ------------------------------------------------------------
+# Allow override via environment variable, otherwise use default path
+CS50DIR=${CS50DIR:-"$HOME/Developer/CS50x"}
+CS50MAKE="$CS50DIR/Docs/Makefile"
+
+# ------------------------------------------------------------
+# Directory Validation
+# ------------------------------------------------------------
+# Check if directory exists
+if [ ! -d "$CS50DIR" ]; then
+    echo -e "Error: CS50 directory not found: $CS50DIR\n"
+    exit 1
+fi
+
+# ------------------------------------------------------------
+# Makefile Selection Logic
+# ------------------------------------------------------------
 # Check if the current directory is inside the project directory
 if [[ "$(pwd)" == "$CS50DIR"* ]]; then
-    echo "Running make in project root: $CS50DIR"
-    # Call the real make command with the root directory as the working directory
-    /usr/bin/make -C "$CS50DIR" "$@"
+    # Call make with -f flag to specify the Makefile location
+    /usr/bin/make -f "$CS50MAKE" "$@"
 else
-    echo "Running make normally."
     # Call the real make command normally
     /usr/bin/make "$@"
 fi
