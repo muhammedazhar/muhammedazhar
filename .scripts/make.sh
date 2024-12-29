@@ -33,9 +33,40 @@ fi
 # ------------------------------------------------------------
 # Check if the current directory is inside the project directory
 if [[ "$(pwd)" == "$CS50DIR"* ]]; then
-    # Call make with -f flag to specify the Makefile location
-    /usr/bin/make -f "$CS50MAKE" "$@"
+    # Handle special flags within CS50 context
+    case "$1" in
+        --version|-v)
+            /usr/bin/make -f "$CS50MAKE" -- --version
+            ;;
+        --author)
+            /usr/bin/make -f "$CS50MAKE" -- --author
+            ;;
+        which_compiler)
+            /usr/bin/make -f "$CS50MAKE" which_compiler
+            ;;
+        which_device)
+            /usr/bin/make -f "$CS50MAKE" which_device
+            ;;
+        *)
+            # Default: Call make with CS50 Makefile for all other cases
+            /usr/bin/make -f "$CS50MAKE" "$@"
+            ;;
+    esac
 else
-    # Call the real make command normally
-    /usr/bin/make "$@"
+    # Handle special flags outside CS50 context
+    case "$1" in
+        --version|-v|version)
+            /usr/bin/make --version
+            ;;
+        --author|author)
+            echo "Not in CS50 directory. Author information unavailable."
+            ;;
+        which_compiler|which_device)
+            echo "Not in CS50 directory. Device information unavailable."
+            ;;
+        *)
+            # Default: Call the real make command normally
+            /usr/bin/make "$@"
+            ;;
+    esac
 fi
