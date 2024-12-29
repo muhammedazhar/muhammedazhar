@@ -55,10 +55,10 @@ if [[ "$(pwd)" == "$CS50DIR"* ]]; then
 else
     # Handle special flags outside CS50 context
     case "$1" in
-        --version|-v|version)
+        --version|-v)
             /usr/bin/make --version
             ;;
-        --author|author)
+        --author)
             echo "Not in CS50 directory. Author information unavailable."
             ;;
         which_compiler|which_device)
